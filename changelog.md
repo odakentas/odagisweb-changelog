@@ -3,11 +3,11 @@
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 
 ## [23.10.06]
--CBS treeview görünümde yeni eklenenen haritanın renderlanmama ve otomatik seçili gelmeme sorunu giderildi.
+- CBS treeview görünümde yeni eklenenen haritanın renderlanmama ve otomatik seçili gelmeme sorunu giderildi.
 
 ## [23.10.05]
 
--CBS haritalarındaki katmanlar artık kullanıcı bazlı özelleştirilebilir hale getirildi.Özelleştimek istenen katmana sağ tıklanarak bu işlem uygulanabilir.
+- CBS haritalarındaki katmanlar artık kullanıcı bazlı özelleştirilebilir hale getirildi.Özelleştimek istenen katmana sağ tıklanarak bu işlem uygulanabilir.
 
 ## [23.09.29]
 
