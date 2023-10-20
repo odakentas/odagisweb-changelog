@@ -2,6 +2,12 @@
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 
+## [23.10.20]
+- Info Card kısmında tab değişimleri daha belirgin hale getirildi.
+- Hazır sorgu kısmında indirilen tablo bilginden geometri kısmı çıkarıldı.
+- Editör -> Sözel Bilgi Güncelle -> data tablo kısmında stil değişklikleri yapıldı.
+- Ekranı böl kısmında artık katmanlar 2 haritada gösteriliyor. Ayrıca ekranı böl aktifken altık harita değişimi 2. haritayı etkiliyor. 
+
 ## [23.10.06]
 - CBS treeview görünümde yeni eklenenen haritanın renderlanmama ve otomatik seçili gelmeme sorunu giderildi.
 
