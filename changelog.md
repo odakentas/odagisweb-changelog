@@ -2,6 +2,14 @@
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 
+## [23.11.23]
+- Editörde sütünların güncellenme hatası giderildi.Editör data tablolarında combo trigger sorunu düzeltildi.
+- Raporda en son görüntülenen dashboardun hafaızda tutulması sağlandı.
+- Info alınan objede data tablonun görüntülenme önceliği arttırıldı.
+- Map kısmından export edilen çizimler düzeltildi.
+- Özel haritada yen çizimler artık eski çizimler üzerine yazması düzeltildi.Oluşturulmuş özel haraitalarda çizimler güncellenebiliyor.
+- Kml export ederken sembollerde notlar artık label olarak ayarlandı. 
+
 ## [23.10.20]
 - Info Card kısmında tab değişimleri daha belirgin hale getirildi.
 - Hazır sorgu kısmında indirilen tablo bilginden geometri kısmı çıkarıldı.
