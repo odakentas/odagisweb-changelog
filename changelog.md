@@ -7,7 +7,7 @@ Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 - Editor data tabloda css değişklikleri yapıldı.
 - Editor data tabloda filtreleme eklendi.Ayrıca kullanıcı isteği sütünları kaldırarak tabloyu sadeleştirebilir
 - Kullanıcı panelinde kullanıcı listesini artık Ad soyad şeklinde ayarlandı ayrıca çevirim içi kullanıcı sayısındaki hata giderildi.
-- İnfo data tablo kısmına filtreme özelliği eklendi.
+- İnfo data tablo kısmına filtreleme özelliği eklendi.
 
 ## [23.11.23]
 - Editörde sütünların güncellenme hatası giderildi.Editör data tablolarında combo trigger sorunu düzeltildi.
