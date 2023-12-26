@@ -1,6 +1,13 @@
 # Değişiklik Geçmişi
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
+## [23.12.26]
+- Editörde data table yeni kayıt eklemede ilk açılşta combolar arasında ilişki göre trigger edilmesi sağlandı
+- Editör data table veri düzenleme eklendi.
+- Editor data tabloda css değişklikleri yapıldı.
+- Editor data tabloda filtreleme eklendi.Ayrıca kullanıcı isteği sütünları kaldırarak tabloyu sadeleştirebilir
+- Kullanıcı panelinde kullanıcı listesini artık Ad soyad şeklinde ayarlandı ayrıca çevirim içi kullanıcı sayısındaki hata giderildi.
+- İnfo data tablo kısmına filtreme özelliği eklendi.
 
 ## [23.11.23]
 - Editörde sütünların güncellenme hatası giderildi.Editör data tablolarında combo trigger sorunu düzeltildi.
