@@ -2,7 +2,7 @@
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 ## [23.12.26]
-- Editörde data table yeni kayıt eklemede ilk açılşta combolar arasında ilişki göre trigger edilmesi sağlandı
+- Editörde data table yeni kayıt ekleme ekranında ilk açılışta combolar arasında ilişkiye göre combo içersindeki datalar filtrelenir.
 - Editör data table veri düzenleme eklendi.
 - Editor data tabloda css değişklikleri yapıldı.
 - Editor data tabloda filtreleme eklendi.Ayrıca kullanıcı isteği sütünları kaldırarak tabloyu sadeleştirebilir
