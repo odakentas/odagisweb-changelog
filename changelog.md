@@ -2,9 +2,9 @@
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 ## [24.02.23]
-- Editor -> Data Table kayıtkarın sırası en yeniden en eskiye olarak güncellendi.
+- Editor -> Data Table kayıtların sırası en yeniden en eskiye olarak güncellendi.
 - Sağ alt kısımdaki buttonlara nokta editorü eklendi.
-- Inof kard ksımında dialog büyütüldüğünde artık sadece sol tarafın büyümesi düzeltildi.
+- Inof kard kısmında dialog büyütüldüğünde artık sadece sol tarafın büyümesi düzeltildi.
 ## [23.12.26]
 - Editörde data table yeni kayıt ekleme ekranında ilk açılışta combolar arasında ilişkiye göre combo içersindeki datalar filtrelenir.
 - Editör data table veri düzenleme eklendi.
