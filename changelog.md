@@ -4,7 +4,7 @@ Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 ## [28.02.23]
 - Nokta Editör import/export eklendi.
 - Nokta Editörde bazı katmanların listeye atılmaması sorunu düzeltildi.
-- Map -> Kurumsal Harita kısımında scroll eklendi.
+- Map -> Kurumsal Harita kısımına scroll eklendi.
 - Hazır sorgu ve dinmaik sorgularda tablolara filtreleme özelliği eklendi.
 - Geomesajda iyileştirme yapıldı.
 
