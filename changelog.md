@@ -1,6 +1,13 @@
 # Değişiklik Geçmişi
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
+## [28.02.23]
+- Nokta Editör import/export eklendi.
+- Nokta Editörde bazı katmanların listeye atılamamsı düzenlendi.
+- Map -> Kurumsal Harita kısımında scroll eklendi.
+- Hazır sorgu ve dinmaik sorgularda tablolara filtreleme özelliği eklendi.
+- Geomesajda iyileştirme yapıldı.
+
 ## [24.02.23]
 - Editor -> Data Table kayıtların sırası en yeniden en eskiye olarak güncellendi.
 - Sağ alt kısımdaki buttonlara nokta editorü eklendi.
