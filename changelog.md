@@ -2,10 +2,10 @@
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 ## [24.05.17]
-- Alarma tıklanmam sorunu giderildi.
+- Alarma tıklanmama sorunu giderildi.
 - Editör mobilde zoom yapınca nokta atma hatası düzeltildi.
 - Info galeri artık oto açılması sağlandı.
-- Tüm tablolara stün genişletme özelliğ eklendi.
+- Tüm tablolara stün genişletme özelliği eklendi.
 - Tablolara sütun isimlerin sabit kalması eklendi.
 - Tablete özel ayar eklendi.
 - CSS hataları giderildi.
@@ -20,10 +20,10 @@ Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 ## [24.04.08]
 - Hazır sorgu ve dinamik sorgu tablo bilgi sonucuna filtre ve sort özelliği eklendi.Ayrıca istenmeyen sütunlar artık gizlenebiliyor.
 - Aynı nokta bulunan alarmlara basıldığında artık info yerine bir tablo getirildi.Kullanıcı o noktadaki tüm alarmların bilgisini alabilir.
-- Info fotoğrflar için galari entegre edildi.
+- Info fotoğraflar için galari entegre edildi.
   
 ## [24.04.02]
-- CBS haritlarındaki lejant artık ilk açılışta yüklenmesi durduruldu.(Lajantların boyutundaki büyüklüklerden dolayı yavaşlığa sebep oluyordu)
+- CBS haritlarındaki lejant artık ilk açılışta yüklenmesi durduruldu.(Lejantların boyutundaki büyüklüklerden dolayı yavaşlığa sebep oluyordu)
 - Lejant dosya yükleme boyutu getirildi. 
 ## [24.02.28]
 - Nokta Editör import/export eklendi.
