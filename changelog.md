@@ -5,8 +5,8 @@ Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
 - Alarma tıklanmama sorunu giderildi.
 - Editör mobilde zoom yapınca nokta atma hatası düzeltildi.
 - Info galeri artık oto açılması sağlandı.
-- Tüm tablolara stün genişletme özelliği eklendi.
-- Tablolara sütun isimlerin sabit kalması eklendi.
+- Tüm tablolara sütun genişletme özelliği eklendi.
+- Tablolarda sütun isimlerinin sabit kalması eklendi.
 - Tablete özel ayar eklendi.
 - CSS hataları giderildi.
 ## [24.05.10]
