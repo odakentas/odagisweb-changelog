@@ -1,7 +1,31 @@
 # Değişiklik Geçmişi
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
-## [28.02.23]
+## [24.05.17]
+- Alarma tıklanmam sorunu giderildi.
+- Editör mobilde zoom yapınca nokta atma hatası düzeltildi.
+- Info galeri artık oto açılması sağlandı.
+- Tüm tablolara stün genişletme özelliğ eklendi.
+- Tablolara sütun isimlerin sabit kalması eklendi.
+- Tablete özel ayar eklendi.
+- CSS hataları giderildi.
+## [24.05.10]
+- CBS Haritalarındaki treeview optimizasyonu yapıldı ve hataları giderildi.
+## [24.05.07]
+- Özelleştirebilir info dizaynın entegresi tamamlandı.
+- Bu infonun responsive olması sağlandı.
+## [24.04.26]
+- Yeni dashboard sistemi webe entegre edildi.
+- Özelleştirebilir info dizaynı sisteme entegresine başlanıldı.
+## [24.04.08]
+- Hazır sorgu ve dinamik sorgu tablo bilgi sonucuna filtre ve sort özelliği eklendi.Ayrıca istenmeyen sütunlar artık gizlenebiliyor.
+- Aynı nokta bulunan alarmlara basıldığında artık info yerine bir tablo getirildi.Kullanıcı o noktadaki tüm alarmların bilgisini alabilir.
+- Info fotoğrflar için galari entegre edildi.
+  
+## [24.04.02]
+- CBS haritlarındaki lejant artık ilk açılışta yüklenmesi durduruldu.(Lajantların boyutundaki büyüklüklerden dolayı yavaşlığa sebep oluyordu)
+- Lejant dosya yükleme boyutu getirildi. 
+## [24.02.28]
 - Nokta Editör import/export eklendi.
 - Nokta Editörde bazı katmanların listeye atılmaması sorunu düzeltildi.
 - Map -> Kurumsal Harita kısımına scroll eklendi.
