@@ -1,6 +1,29 @@
 # Değişiklik Geçmişi
 
 Bu projedeki tüm önemli değişiklikler bu dosyada belgelenecektir.
+
+## [24.09.27]
+- Admin paneldeki konum izleme sistemi webe entegre edildi.
+- Artık alarmlar basıldığında tüm alarmlar değil sadece oto açık olan ayarlar açık olup diğerleri kapalı gelmesi ayarlandı.
+## [24.09.24]
+- Prime react güncellendi.(Webde eğer arayüzde bozulma yaşandıysa kullancıların cache temizlemesi gereklidir.)
+- Artık bir cbs haritasında bir katmanın diğerlerinin üstünde gözükmesini isteyen kullanıcılar katmanı açıp kapatırsa artık o katman en üstte gözükecektir.
+## [24.09.13]
+- Dashboard filtreleme özelliği eklendi.
+- Mobil info responsive yapıldı.Artık ekran dışına taşması engellendi.
+## [24.07.22]
+- 3d katmanları admin paneldeki yeni sisteme göre güncellendi.
+## [24.07.16]
+- Artık mobilde çizmiler harita sekmesinde gözükmesi ve oradan da kml olarak dışarı aktarılması eklendi.
+- Grafiklerde dataların excel olarak dışarı aktarılması eklendi.
+- Join tablo sistemi webe eklendi.
+- Kayıt edilmiş özel harita güncellenirken eski çizmlerin korunması sağlandı ama kullanıcı isterse eski çizimlerin silebilir.
+- Shp dosyaları artık webdeki güncel epsg göre dışarı aktarılıyor.
+- Harita vektör haritalara eklenen kml katmanlarının özelleştirilmesi eklendi. 
+## [24.05.20]
+- Çıktı alırken Türkçe karakterlerin bozulması sorunu giderildi.
+- Info foto galerideki hatalar düzeltildi.
+- Rapor chart map ve grafik tipinde güncellemeler yapıldı.  
 ## [24.05.17]
 - Alarma tıklanmama sorunu giderildi.
 - Editör mobilde zoom yapınca nokta atma hatası düzeltildi.
